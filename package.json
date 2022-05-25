@@ -1,5 +1,5 @@
 {
-  "name": "typeorm-polymorphic",
+  "name": "erin-typeorm-polymorphic",
   "version": "0.0.3",
   "main": "./dist/index.js",
   "author": {
@@ -10,9 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bashleigh/typeorm-polymorphic"
+    "url": "https://github.com/anangaterin/erin-typeorm-polymorphic"
   },
-  "description": "A repository for building typed polymorphic relationships",
+  "description": "A repository for building typed polymorphic relationships. This repository is a fork from Ashleigh Simonelli's typeorm-polymorphic",
   "keywords": [
     "nestjs",
     "typeorm",
