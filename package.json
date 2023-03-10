@@ -1,5 +1,5 @@
 {
-  "name": "erin-typeorm-polymorphic",
+  "name": "erinlib-typeorm-polymorphic",
   "version": "0.0.3",
   "main": "./dist/index.js",
   "author": {
